@@ -1,0 +1,7 @@
+{
+  "name": "LIFRAG CYCLING",
+  "description": "An application for indoor cycling enthusiasts to book bikes, track progress, and earn rewards. It features an interactive studio map for bike selection, integrated payments, and gamification elements to enhance user engagement.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
